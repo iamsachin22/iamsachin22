@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iamsachin22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sachin 
+- 👀 I’m interested in Problem Solving.
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Android
+- 📫 How to reach me https://github.com/iamsachin22
 
 <!---
 iamsachin22/iamsachin22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
