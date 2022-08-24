@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter , Machine Learning.
 - 💞️ I’m looking to collaborate on Android Mobile Application.
 - 😄 Pronouns: He/His
-- 📫 How to reach me:  https://github.com/iamsachin22
+- 📫 How to reach me:  sachinshelar1122@gmail.com
 - 💬 Ask me about Java, Kotlin, Flutter or any tech-related stuff.
 
 
